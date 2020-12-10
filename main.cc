@@ -23,10 +23,6 @@ int main() {
     cin >> tests;
 
     while (tests-- > 0) {
-        vector<pair<int, int>> a;
-
-        a.emplace_back(2, 3);
-
-        debug(a);
+        //TODO: Clear variables
     }
 }
